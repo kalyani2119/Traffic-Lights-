@@ -1,4 +1,4 @@
-//Traffic-Lights-
+//Traffic_Lights
 //An embedded C program to design traffic lights using 8051 microcontroller
 #include<reg51.h>
 sbit red = p1^0;
